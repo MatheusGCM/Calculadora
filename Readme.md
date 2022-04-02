@@ -2,4 +2,4 @@
 
 Preview site: https://matheusgcm.github.io/Calculadora/
 
-By Matheus Guilherme
+By: Matheus Guilherme
